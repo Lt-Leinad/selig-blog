@@ -9,6 +9,11 @@ export default function Navbar() {
           Home
         </NavLink>
         <NavLink to="/post">Blog</NavLink>
+        <NavLink to="/about">About</NavLink>
+        <NavLink to="/faq">FAQ</NavLink>
+        <NavLink to="/our-impact">OurImpact</NavLink>
+        <NavLink to="/our-team">OurTeam</NavLink>
+        <NavLink to="/press">Press</NavLink>
       </nav>
     </header>
   );
